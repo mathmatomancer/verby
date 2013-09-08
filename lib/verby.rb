@@ -1,0 +1,1 @@
+require 'verby/parser'
